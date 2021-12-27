@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Facebook Product 1",
+        "price": 1.00,
+        "category": "Electronic"
+    },
+    {
+        "id": 2,
+        "name": "Facebook Product 2",
+        "price": 2.00,
+        "category": "Fashion"
+    },
+    {
+        "id": 3,
+        "name": "Facebook Product 3",
+        "price": 3.00,
+        "category": "Home Decor"
+    },
+    {
+        "id": 4,
+        "name": "Facebook Product 4",
+        "price": 4.00,
+        "category": "Electronic"
+    },
+    {
+        "id": 5,
+        "name": "Facebook Product 5",
+        "price": 5.00,
+        "category": "Fashion"
+    },
+    {
+        "id": 6,
+        "name": "Facebook Product 6",
+        "price": 6.00,
+        "category": "Home Decor"
+    },
+    {
+        "id": 7,
+        "name": "Facebook Product 7",
+        "price": 7.00,
+        "category": "Electronic"
+    },
+    {
+        "id": 8,
+        "name": "Facebook Product 8",
+        "price": 8.00,
+        "category": "Fashion"
+    },
+    {
+        "id": 9,
+        "name": "Facebook Product 9",
+        "price": 9.00,
+        "category": "Home Decor"
+    },
+    {
+        "id": 10,
+        "name": "Facebook Product 10",
+        "price": 10.00,
+        "category": "Electronic"
+    }
+]
